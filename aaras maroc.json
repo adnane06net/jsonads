@@ -5,7 +5,7 @@
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
     "ad_banner" : "applovin_max",
     "ad_inter" : "applovin_max",
-    "ad_native" : "applovin_max",
+    "ad_native" : "fan",
     "openapp" : "applovin_max",
     "back_up" : "none",
     "ad_interval" : 3 ,
@@ -31,7 +31,7 @@
 	"FAN": {
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "native": "359463113273421_359463763273356"
     },
     
     "GAM": {
