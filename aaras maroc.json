@@ -8,7 +8,7 @@
     "ad_native" : "fan",
     "openapp" : "applovin_max",
     "back_up" : "none",
-    "ad_interval" : 3 ,
+    "ad_interval" : 6 ,
     
     "AdMob": {
       "banner": "ca-app-pub-2076497913079733/8658348553",
