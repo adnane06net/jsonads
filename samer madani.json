@@ -1,0 +1,53 @@
+{
+  "Ads": {
+    "ad_status" : "1",
+    
+    "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
+    "ad_banner" : "admob",
+    "ad_inter" : "admob",
+    "ad_native" : "admob",
+    "openapp" : "applovin_max",
+    "back_up" : "none",
+    "ad_interval" : 3 ,
+    
+    "AdMob": {
+      "banner": "ca-app-pub-8722582081299583/4081760328",
+      "interstitial": "ca-app-pub-8722582081299583/8144332251",
+      "native": "ca-app-pub-8722582081299583/1455596988",
+      "appopen" : "ca-app-pub-2076497913079733/2151650538"
+    },
+    
+    "ironSource": {
+      "app_key": "12d657f25"
+    },
+    
+	"MAX": {
+	  "banner":"933ae97e29a5cb30",
+	  "interstitial":"62bdc9505ab09a51",
+	  "native": "2d5c82e4c839c0ca",
+	  "appopen" : "25767b2293203480"
+	},
+	
+	"FAN": {
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    
+    "GAM": {
+      "banner": "/6499/example/banner",
+      "interstitial": "/6499/example/interstitial",
+      "native": "/6499/example/native",
+      "appopen": "/6499/example/app-open"
+    },
+    
+    "Applovin": {
+      "banner": "be13788b9f2afee5",
+      "interstitial": "1f5e603ebdfc8580"
+    },
+    
+    "StartApp" :{
+        "app_id" : "0"
+    }
+  }
+}
