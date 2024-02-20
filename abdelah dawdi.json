@@ -1,6 +1,6 @@
 {
   "Ads": {
-    "ad_status" : "1",
+    "ad_status" : "0",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
     "ad_banner" : "admob",
@@ -11,9 +11,9 @@
     "ad_interval" : 3 ,
     
     "AdMob": {
-      "banner": "ca-app-pub-8722582081299583/1275988804",
-      "interstitial": "ca-app-pub-8722582081299583/5361561715",
-      "native": "ca-app-pub-8722582081299583/6799778221",
+      "banner": "ca-app-pub-8722582081299583/2156652170",
+      "interstitial": "ca-app-pub-8722582081299583/5758831740",
+      "native": "ca-app-pub-8722582081299583/9718258054",
       "appopen" : "ca-app-pub-2076497913079733/6741632237"
     },
     
