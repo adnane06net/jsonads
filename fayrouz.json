@@ -1,6 +1,6 @@
 {
   "Ads": {
-    "ad_status" : "1",
+    "ad_status" : "0",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
     "ad_banner" : "admob",
