@@ -1,4 +1,4 @@
-{
+ {
   "Ads": {
     "ad_status" : "1",
     
@@ -11,9 +11,9 @@
     "ad_interval" : 3 ,
     
     "AdMob": {
-      "banner": "ca-app-pub-2500612165449254/3905522504",
-      "interstitial": "ca-app-pub-2500612165449254/3578219442",
-      "native": "ca-app-pub-2500612165449254/9952056109",
+      "banner": "ca-app-pub-9983391201998377/7754475086",
+      "interstitial": "ca-app-pub-9983391201998377/5578015689",
+      "native": "ca-app-pub-9983391201998377/4564316915",
       "appopen" : "ca-app-pub-2076497913079733/5942721738"
     },
     
