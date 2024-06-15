@@ -11,9 +11,9 @@
     "ad_interval" : 3 ,
     
     "AdMob": {
-      "banner": "ca-app-pub-2500612165449254/4147111374",
-      "interstitial": "ca-app-pub-2500612165449254/4651627969",
-      "native": "ca-app-pub-2500612165449254/3785715965",
+      "banner": "ca-app-pub-9983391201998377/7403654122",
+      "interstitial": "ca-app-pub-9983391201998377/2963993463",
+      "native": "ca-app-pub-9983391201998377/4931681256",
       "appopen" : "ca-app-pub-2076497913079733/1384748798"
     },
     
